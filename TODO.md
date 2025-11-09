@@ -1,0 +1,7 @@
+- [x] Update navmenu dropdown to "Program" with subitems linking to service-details.html#service
+- [x] Add id attributes to each service link in service-details.html
+- [x] Modify assets/js/main.js: on page load, activate service based on window.location.hash
+- [x] Update program section links in index.html to include hashes
+- [x] Test navigation from menu to specific services
+- [x] Fix gallery section in index.html: clean up corrupted HTML and organize photos/videos properly
+- [x] Add image modal functionality to assets/js/main.js for photo viewing
